@@ -1,0 +1,2 @@
+# elasticcli
+Cli for Elasticsearch
