@@ -1,0 +1,36 @@
+{
+  "name": "elasticcli",
+  "version": "1.0.0",
+  "description": "CLI for Elasticsearch",
+  "main": "elasticcli",
+  "bin": "./bin/elasticcli",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon elasticcli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luftnomade/elasticcli.git"
+  },
+  "keywords": [
+    "CLI",
+    "Elasticseach",
+    "elk",
+    "repl",
+    "elastic"
+  ],
+  "author": "Christian Wolf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luftnomade/elasticcli/issues"
+  },
+  "homepage": "https://github.com/luftnomade/elasticcli#readme",
+  "dependencies": {
+    "colors": "^1.2.1",
+    "commander": "^2.15.1",
+    "elasticsearch": "^14.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  }
+}
