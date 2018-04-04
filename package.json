@@ -1,5 +1,5 @@
 {
-  "name": "elasticcli",
+  "name": "@luftnomade/elasticcli",
   "version": "0.1.0",
   "description": "CLI for Elasticsearch",
   "main": "elasticcli",
