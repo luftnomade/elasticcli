@@ -5,7 +5,7 @@ Cli for Elasticsearch
 # installation
 
 ```
-npm install -g elasticcli
+npm install -g @luftnomade/elasticcli
 ```
 
 # usage
